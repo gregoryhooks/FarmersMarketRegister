@@ -1,0 +1,9 @@
+Description: Buy one coffee, get another free.
+DiscountType: BXGY
+RequiredItem: CF1
+RequiredQuantity: 1
+ItemToDiscount: CF1
+NumberOfDiscounts: 1
+PercentageOff: 100
+Limit: 0
+Combinable: False

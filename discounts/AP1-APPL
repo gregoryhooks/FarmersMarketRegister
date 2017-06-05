@@ -1,0 +1,7 @@
+Description: Buy 3 or more bags of Apples, get them for $4.50 each
+DiscountType: BXGD
+RequiredItem: AP1
+RequiredQuantity: 3
+PercentageOff: 25
+Limit: 0
+Combinable: False

@@ -1,0 +1,9 @@
+Description: Purchase a box of Chai and get milk free. (Limit 1)
+DiscountType: BXGY
+RequiredItem: CH1
+RequiredQuantity: 1
+ItemToDiscount: MK1
+NumberOfDiscounts: 1
+PercentageOff: 100
+Limit: 1
+Combinable: False

@@ -1,0 +1,9 @@
+Description: Purchase a bag of Oatmeal and get 50% off a bag of Apples
+DiscountType: BXGY
+RequiredItem: OM1
+RequiredQuantity: 1
+ItemToDiscount: AP1
+NumberOfDiscounts: 1
+PercentageOff: 50
+Limit: 0
+Combinable: False

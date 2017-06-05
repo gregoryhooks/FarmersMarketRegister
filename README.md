@@ -20,7 +20,7 @@ Below is the format for a product, all fields are **required**:
 
 ```
 Name: Specifies the full name of the product e.g. "Apples"
-Price Specifies the dollar amount of the product e.g. "$6.00"
+Price: Specifies the dollar amount of the product e.g. "$6.00"
 ```
 
 ### Adding Discounts

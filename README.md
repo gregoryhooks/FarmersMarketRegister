@@ -5,7 +5,7 @@ Written for Python 2.7
 ## Usage:
 
 ```
-./main.py
+python ./main.py
 ```
 
 ## Configuration

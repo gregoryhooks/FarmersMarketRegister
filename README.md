@@ -14,7 +14,7 @@ This program includes 5 products and 4 discounts.
 
 ### Adding Products
 
-The filename for each product must match the desired product code e.g. "AP1"
+The filename for each product must match the desired product code e.g. "AP1".
 
 Below is the format for a product, all fields are **required**:
 
@@ -32,16 +32,17 @@ Then a "-" is to be used to separate the product code from the discount code.
 
 The discount code is arbitrary, use whatever is suitable here.
 
-Below is an example of a discount filename.
+Below is an example of a discount filename:
 
 ```
 OM1-APOM
 ```
 
-"OM1" since the condition for this discount is X amount of Oatmeal
-"APOM" in this example means you get a discount on apples if you buy x amount of Oatmeal, again this name is arbitrary
+"OM1" since the condition for this discount is X amount of Oatmeal.
 
-Below is the **minimal** format for the discount file itself
+"APOM" in this example means you get a discount on apples if you buy x amount of Oatmeal, again this name is arbitrary.
+
+Below is the **minimal** format for the discount file itself:
 
 ```
 Description: Helps identify what the discount is in human readable terms
@@ -59,7 +60,7 @@ There are 2 discount rules included.
 
 #### BXGY
 
-"Buy X amount of items, get Y amount of items at any percentage off"
+*"Buy X amount of items, get Y amount of items at any percentage off."*
 
 In addition to the minimal format above, this rule **requires** the following attributes:
 
@@ -70,6 +71,6 @@ NumberOfDiscounts: The number of the items the discount will apply to
 
 #### BXGD
 
-"Buy X amount of items, get them all for any percentage off"
+*"Buy X amount of items, get them all for any percentage off."*
 
-This rule does not require any additional fields
+This rule does not require any additional fields.
